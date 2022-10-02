@@ -1,0 +1,59 @@
+{
+  "name": "Exp-6-2-6 #21",
+  "description": "Una coleccion de bicicletas",
+  "file_url": "https://raw.githubusercontent.com/XTRDETROYRTX/coleccionBicis/main/Imagenes/21.png",
+  "image": "https://raw.githubusercontent.com/XTRDETROYRTX/coleccionBicis/main/Imagenes/21.png",
+  "attributes": [
+    {
+      "trait_type": "Fondo",
+      "value": "Fondo6"
+    },
+    {
+      "trait_type": "Cuadro",
+      "value": "Cuadro4"
+    },
+    {
+      "trait_type": "Gomas",
+      "value": "Gomas1"
+    },
+    {
+      "trait_type": "Tornillos",
+      "value": "Tornillos1"
+    },
+    {
+      "trait_type": "Accesorios",
+      "value": "Accesorio4"
+    },
+    {
+      "trait_type": "Stikers1",
+      "value": "Stiker1"
+    },
+    {
+      "trait_type": "Stikers2",
+      "value": "Stiker2"
+    },
+    {
+      "trait_type": "Stikers3",
+      "value": "Stiker3"
+    },
+    {
+      "trait_type": "Manos",
+      "value": "Manos1"
+    },
+    {
+      "trait_type": "Mangas",
+      "value": "Mangas3"
+    },
+    {
+      "trait_type": "Detalles",
+      "value": "Detalles1"
+    }
+  ],
+  "custom_fields": {
+    "dna": "03cac93bf1c0c3e8b71a50eb2f26dc4cb2da1e69",
+    "edition": 21,
+    "date": 1664613273405,
+    "compiler": "HashLips Art Engine - codeSTACKr Modified"
+  },
+  "external_url": "https://codecats.xyz"
+}
